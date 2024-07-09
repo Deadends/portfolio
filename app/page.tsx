@@ -6,6 +6,7 @@ import TypewriterEffectSmoothDemo from "./components/typo";
 
 var year = new Date().getFullYear()  
 
+
 export default function BackgroundBeamsDemo() {
 
   return (
