@@ -39,7 +39,8 @@ jobs:
           path: ./out
 
       - name: List files 📂
-        run: ls -l
+        run: |
+          ls -la
 
   deploy:
     environment:
