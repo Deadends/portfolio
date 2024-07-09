@@ -38,6 +38,9 @@ jobs:
         with:
           path: ./out
 
+      - name: List files 📂
+        run: ls -l
+
   deploy:
     environment:
       name: github-pages
