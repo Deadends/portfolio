@@ -5,6 +5,8 @@ on:
     branches:
       - main
 
+  workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
@@ -39,8 +41,7 @@ jobs:
           path: ./out
 
       - name: List files 📂
-        run: |
-          ls -la
+        run: find src
 
   deploy:
     environment:
