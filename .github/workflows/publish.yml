@@ -41,7 +41,7 @@ jobs:
           path: ./out
 
       - name: List files 📂
-        run: find src
+        run: find out
 
   deploy:
     environment:
