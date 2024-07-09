@@ -31,7 +31,7 @@ export const projects = [
   },
   {
     title: "Skills 💭",
-    description:"React\nNode\nJava",
+    description:"React\nNode\nTypeScript\nPython",
     link: "https://buymeacoffee.com/nantha_",
   },
   {
