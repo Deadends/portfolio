@@ -15,7 +15,7 @@ export const projects = [
     title: "Linked - In",
     description:
       "To Keep a track about me or to contact me.",
-    link: "https://www.linkedin.com/in/nantha-bala-629458219",
+    link: "https://www.linkedin.com/in/nanthabala013/",
   },
   {
     title: "GitHub <>",
