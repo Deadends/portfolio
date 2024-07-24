@@ -27,7 +27,7 @@ export const projects = [
     title: "Gmail 📬",
     description:
       "Drop a mail, To hire me.",
-    link: "mailto: nantha.ponmudi@gmail.com",
+    link: "/",
   },
   {
     title: "Skills 💭",
