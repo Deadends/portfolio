@@ -1,3 +1,4 @@
+"use client"
 import { cn } from "../utils/cn";
 import { AnimatePresence, motion } from "framer-motion";
 import Link from "next/link";
@@ -39,11 +40,11 @@ export const HoverEffect = ({
                 initial={{ opacity: 0 }}
                 animate={{
                   opacity: 1,
-                  transition: { duration: 0.15 },
+                  transition: { duration: 0.10 },
                 }}
                 exit={{
                   opacity: 0,
-                  transition: { duration: 0.15, delay: 0.2 },
+                  transition: { duration: 0.10, delay: 0.2 },
                 }}
               />
             )}

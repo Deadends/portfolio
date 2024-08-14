@@ -1,5 +1,6 @@
-import { describe } from "node:test";
+"use client"
 import { HoverEffect } from "../components/card-hover-effect";
+
 
 const Approach = () => {
   return (
@@ -42,7 +43,7 @@ export const projects = [
 ,
   },
   {
-    title: "Deets !",
+    title: "Projects !",
     description:
       "Im exposed to learning cool Tools, To learn more about my recent projects click on.",
     link: "https://github.com/Deadends",

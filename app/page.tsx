@@ -3,6 +3,7 @@ import React from "react";
 import { BackgroundBeams } from "../app/components/background-beams";
 import Approach from "./components/box";
 import TypewriterEffectSmoothDemo from "./components/typo";
+import { LinkPreviewDemo } from "./components/links";
 
 var year = new Date().getFullYear()  
 
@@ -27,6 +28,7 @@ export default function BackgroundBeamsDemo() {
       </div>
       <div>
       <Approach />
+      <LinkPreviewDemo/>
       </div>
       <footer className=" pb-7 pt-7 relative z-10 text-sm md:text-1xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold">
       
