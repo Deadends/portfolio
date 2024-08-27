@@ -32,7 +32,7 @@ export const projects = [
   },
   {
     title: "Skills 💭",
-    description:"React\nNode\nTypeScript\nPython",
+    description:"Next\nFramer\nFigma\nNode\nTypeScript\nAdobe Illustrator",
     link: "https://buymeacoffee.com/nantha_",
   },
   {
@@ -45,8 +45,8 @@ export const projects = [
   {
     title: "Projects !",
     description:
-      "Im exposed to learning cool Tools, To learn more about my recent projects click on.",
-    link: "https://github.com/Deadends",
+      "I'm exposed to learning cool Tools, To explore my Figma projects click me.",
+    link: "https://www.figma.com/@nantha2",
   },
 ];
 
