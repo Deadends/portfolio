@@ -45,7 +45,7 @@ export const projects = [
   {
     title: "Projects !",
     description:
-      "I'm exposed to learning cool Tools, To explore my Figma projects click me.",
+      "I'm exposed to learning cool Tools, To explore my UI/UX projects click me.",
     link: "https://www.figma.com/@nantha2",
   },
 ];
