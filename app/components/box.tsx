@@ -27,7 +27,7 @@ export const projects = [
   {
     title: "I like motion designs 📬",
     description:
-      "Click here to check my framer motions.",
+      "Click here to check my motion designs.",
     link: "https://miracle-pages-373873.framer.app/",
   },
   {
