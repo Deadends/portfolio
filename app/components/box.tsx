@@ -25,10 +25,10 @@ export const projects = [
     link: "https://github.com/Deadends",
   },
   {
-    title: "Gmail 📬",
+    title: "I like motion designs 📬",
     description:
-      "Drop a mail, To hire me.",
-    link: "/",
+      "Click here to check my framer motions.",
+    link: "https://miracle-pages-373873.framer.app/",
   },
   {
     title: "Skills 💭",
