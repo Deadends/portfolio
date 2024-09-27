@@ -34,7 +34,7 @@ export default function BackgroundBeamsDemo() {
       <footer className=" pb-7 pt-7 relative z-10 text-sm md:text-1xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-900 to-neutral-500  text-center font-sans font-bold bg-black">
 
 
-        copyrights © {year}
+        Copyrights © {year}
       </footer>
     </>
   );
