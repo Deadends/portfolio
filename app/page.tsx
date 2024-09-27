@@ -31,10 +31,10 @@ export default function BackgroundBeamsDemo() {
       <LinkPreviewDemo/>
       </div>
       <hr className=" m-0 h-px w-full border-none bg-gradient-to-r from-neutral-200/0 via-blue-700 to-blue-200/0 " />
-      <footer className=" pb-7 pt-7 relative z-10 text-sm md:text-1xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold bg-black">
+      <footer className=" pb-7 pt-7 relative z-10 text-sm md:text-1xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-900 to-neutral-500  text-center font-sans font-bold bg-black">
 
 
-        Copyrights © {year}
+        copyrights © {year}
       </footer>
     </>
   );
