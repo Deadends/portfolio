@@ -23,15 +23,17 @@ export default function BackgroundBeamsDemo() {
           </div>
         </div>
       </div>
-      <div  className="relative z-10  bg-black text-center text-2xl md:text-2xl py-7 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  font-sans font-bold">
+      <div  className="relative z-10  bg-black text-center text-2xl md:text-2xl py-7  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  font-sans font-bold">
         <h1>About</h1>
       </div>
       <div>
       <Approach />
       <LinkPreviewDemo/>
       </div>
+      <hr className=" m-0 h-px w-full border-none bg-gradient-to-r from-neutral-200/0 via-blue-700 to-blue-200/0 " />
       <footer className=" pb-7 pt-7 relative z-10 text-sm md:text-1xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold bg-black">
-      
+
+
         Copyrights © {year}
       </footer>
     </>
