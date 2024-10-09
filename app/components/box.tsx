@@ -31,9 +31,9 @@ export const projects = [
     link: "https://miracle-pages-373873.framer.app/",
   },
   {
-    title: "Skills 💭",
-    description:"Next\nFramer\nFigma\nNode\nTypeScript\nAdobe Illustrator",
-    link: "https://buymeacoffee.com/nantha_",
+    title: "Medium Blogs 💭",
+    description:"I like to document my research work, do give it a read.",
+    link: "https://nantha-ponmudi.medium.com/",
   },
   {
     title: "Buy me a Coffee 🍵",
