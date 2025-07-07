@@ -43,10 +43,10 @@ export const projects = [
 ,
   },
   {
-    title: "Projects !",
+    title: "Connect !",
     description:
-      "I'm exposed to learning cool Tools, To explore my UI/UX projects click me.",
-    link: "https://www.figma.com/@nantha2",
+      "Hop on a real quick call with me.",
+    link: "https://cal.com/nantha-bala-bposrr/10min",
   },
 ];
 
